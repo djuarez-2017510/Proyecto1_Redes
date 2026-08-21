@@ -1,0 +1,23 @@
+[
+  {
+    "id": "PRO-001",
+    "zona": "15",
+    "precio": 800,
+    "acepta_mascotas": true,
+    "descripcion": "Lindo apartamento de 2 habitaciones, muy iluminado."
+  },
+  {
+    "id": "PRO-002",
+    "zona": "10",
+    "precio": 1200,
+    "acepta_mascotas": false,
+    "descripcion": "Penthouse moderno con balcón y vista a la ciudad."
+  },
+  {
+    "id": "PRO-003",
+    "zona": "16",
+    "precio": 650,
+    "acepta_mascotas": true,
+    "descripcion": "Casa pequeña en condominio seguro, ideal para parejas."
+  }
+]
