@@ -1,0 +1,12 @@
+[
+  {
+    "appointment_id": "APT-0001",
+    "property_id": "GT-0012",
+    "client_name": "Daniel Juarez",
+    "client_email": "daniel@example.com",
+    "visit_at": "2026-09-18T15:30:00-06:00",
+    "notes": "Interested in the apartment and parking options.",
+    "created_at": "2026-08-24T01:29:58.429528+00:00",
+    "status": "scheduled"
+  }
+]
